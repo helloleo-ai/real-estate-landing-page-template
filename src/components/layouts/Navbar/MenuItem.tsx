@@ -24,7 +24,7 @@ export default function MenuItem({ items }: MenuItemProps) {
       <div className="flex justify-between items-center">
         <Link href="#home" aria-label="home">
           <Image
-            src="/logo.png"
+            src="/dummy-logo.png"
             alt="logo"
             width="0"
             height="0"

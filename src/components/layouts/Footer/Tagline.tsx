@@ -7,7 +7,7 @@ export default function Tagline() {
     <div className="flex flex-col gap-y-6 lg:gap-y-0 lg:justify-between">
       <Link href="#home" aria-label="home">
         <Image
-          src="/logo-2.png"
+          src="/dummy-logo.png"
           alt="logo"
           width="0"
           height="0"

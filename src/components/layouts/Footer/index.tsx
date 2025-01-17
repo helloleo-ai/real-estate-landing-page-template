@@ -22,9 +22,6 @@ export default function Footer() {
         </div>
       </div>
       <hr className="my-6" />
-      <div className="text-center text-sm text-neutral-300">
-        @ 2023 UiXSHUVO All Rights Reserved
-      </div>
     </footer>
   );
 }
